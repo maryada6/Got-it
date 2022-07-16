@@ -1,1 +1,1 @@
-# Got-it
+This repository consists of Wiki documentation for each day of my internship at ShopUp.
